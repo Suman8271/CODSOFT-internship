@@ -13,11 +13,11 @@ is correct, too high, or too low.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
 TASK 2 (STUDENT GRADE CALCULATOR)
-Input: Take marks obtained (out of 100) in each subject.
-Calculate Total Marks: Sum up the marks obtained in all subjects.
-Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage.
-Grade Calculation: Assign grades based on the average percentage achieved.
-Display Results: Show the total marks, average percentage, and the corresponding grade to the user
+1. Input: Take marks obtained (out of 100) in each subject.
+2. Calculate Total Marks: Sum up the marks obtained in all subjects.
+3. Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage.
+4. Grade Calculation: Assign grades based on the average percentage achieved.
+5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 
 TASK 3 (ATM INTERFACE)
 1. Create a class to represent the ATM machine.
@@ -29,11 +29,11 @@ TASK 3 (ATM INTERFACE)
 7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
 
 TASK 4 (CURRENCY CONVERTER)
-Currency Selection: Allow the user to choose the base currency and the target currency.
-Currency Rates: Fetch real-time exchange rates from a reliable API.
-Amount Input: Take input from the user for the amount they want to convert.
-Currency Conversion: Convert the input amount from the base currency to the target currency using the fetched exchange rate.
-Display Result: Show the converted amount and the target currency symbol to the user.
+1. Currency Selection: Allow the user to choose the base currency and the target currency.
+2. Currency Rates: Fetch real-time exchange rates from a reliable API.
+3. Amount Input: Take input from the user for the amount they want to convert.
+4. Currency Conversion: Convert the input amount from the base currency to the target currency using the fetched exchange rate.
+5. Display Result: Show the converted amount and the target currency symbol to the user.
 
 TASK 5 (STUDENT MANAGEMENT SYSTEM)
 1. Create a Student class to represent individual students. Include attributes such as name, roll number, grade, and any other relevant details.
